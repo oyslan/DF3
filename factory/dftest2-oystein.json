@@ -1,0 +1,9 @@
+{
+	"name": "dftest2-oystein",
+	"location": "norwayeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d8a1b8ec-200c-47f1-8dde-8f35a254f003",
+		"tenantId": "0fbdc769-1cf2-4626-8f47-c82bf7879b2b"
+	}
+}
