@@ -1,0 +1,9 @@
+{
+	"name": "DFTest-oystein",
+	"location": "norwayeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "451fa452-7c5a-42be-a9a5-847b5a6419bc",
+		"tenantId": "0fbdc769-1cf2-4626-8f47-c82bf7879b2b"
+	}
+}
